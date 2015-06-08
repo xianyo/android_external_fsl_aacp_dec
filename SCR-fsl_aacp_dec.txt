@@ -1,0 +1,22 @@
+Freescale Software Content Register
+
+Package:                   fsl_aacp_dec.tar.gz
+
+Date Created:              2015-May-04
+
+Outgoing License:          LA_OPT_FSL_OPEN_3RD_PARTY_IP v6 February 2015
+
+License Files:             COPYING: LA_OPT_FSL_OPEN_3RD_PARTY_IP v6 February 2015
+
+Package Category:          Multimedia
+
+Type of content:           Binaries
+
+Description and comments:  Dolby/Coding Technologies AACP codec
+
+Release Location:          Moderated download
+
+Origin:                    Freescale Semiconductor and Dolby/Coding Technologies
+                           ARM Code 
+ 
+
